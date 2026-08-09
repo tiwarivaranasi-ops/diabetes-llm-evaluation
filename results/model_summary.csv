@@ -1,0 +1,5 @@
+system,total_score,max_score,percentage,score_0_count,score_1_count,score_2_count,score_3_count
+ChatGPT,76,96,79.17,6,1,0,25
+Gemini,78,96,81.25,6,0,0,26
+Claude,69,96,71.88,9,0,0,23
+Perplexity,69,96,71.88,9,0,0,23
