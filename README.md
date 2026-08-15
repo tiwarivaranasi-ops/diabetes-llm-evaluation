@@ -16,13 +16,11 @@ All systems were tested using freely available consumer interfaces. Logged-out a
 
 ### Evaluation design
 
-, glycemic monitoring, pharmacotherapy, cardiovascular risk, hypertension, kidney disease, pregnancy-related lipid management, end-of-life care, and diabetes complications.
+The benchmark consisted of 32 questions covering clinically relevant areas of diabetes care, including glycemic monitoring, pharmacotherapy, cardiovascular risk, hypertension, kidney disease, pregnancy-related lipid management, end-of-life care, and diabetes complications.
 
-.
+The question set and gold-standard answers were finalized before scoring. Each question was submitted independently in a fresh conversation or window, with no previous question, model response, hint, correction, or gold-standard answer supplied as context. The first complete response was recorded and scored against the predefined rubric.
 
-Explanations were limited to 80 words in the question set.
-
-.
+Each system could obtain a maximum of 3 points per question and 96 points overall. Explanations were limited to 80 words in the question set.
 
 ## Results
 
