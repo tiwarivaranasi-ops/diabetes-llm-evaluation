@@ -62,3 +62,16 @@ The four systems achieved broadly similar but non-identical performance, with Ge
 - `original_documents/` — source Word documents and corrected master review
 - `results/` — scored workbook and CSV files
 - `figures/` — result visualizations
+
+## Copyright Notice
+
+© 2026 Dhananjay Tiwari. All rights reserved.
+
+The 15 original case-based clinical reasoning questions included in this project are original works authored by Dhananjay Tiwari.
+
+An application for copyright registration of **“Diabetes Mellitus Clinical Reasoning Benchmark: 15 Original Case Based Questions”** has been filed with the Copyright Office, Government of India.
+
+**Copyright application:** Diary No. LD-37408/2026-CO  
+**Filing date:** 10 August 2026
+
+The clinical case questions may not be reproduced, redistributed, republished, or incorporated into another benchmark or evaluation dataset without permission. Copyright protection applies to the original expression and construction of the questions and does not restrict the underlying medical facts, concepts, or clinical guidelines.
